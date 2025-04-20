@@ -1,0 +1,21 @@
+{
+    "analysis_depth": "high",
+    "opportunity_count": 7,
+    "include_visual_charts": true,
+    "include_final_analysis": true,
+    "risk_summary_detailed": true,
+    "opportunity_explanations": true,
+    "forecast_confidence_enabled": true,
+    "stability_signal_scanner_enabled": true,
+    "max_page_length": 800,
+    "report_alignment": "centered",
+    "market_focus": {
+        "local": "Zimbabwe",
+        "global": true,
+        "stable": true
+    },
+    "innovation_engine_enabled": true,
+    "admin_display_override": false,
+    "report_footer_brand": "Powered by ArcEdge Systems \u2013 A C.M. Initiative \u2013 Connor Mogensen",
+    "update_notes": "Initial remote config launch with full feature set enabled."
+}
